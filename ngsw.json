@@ -1,0 +1,112 @@
+{
+  "configVersion": 1,
+  "timestamp": 1584911508808,
+  "index": "https://guthar.github.io/tcn-app2/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://guthar.github.io/tcn-app2/favicon.ico",
+        "https://guthar.github.io/tcn-app2/index.html",
+        "https://guthar.github.io/tcn-app2/main-es2015.406b4380cd27cc1a7ca6.js",
+        "https://guthar.github.io/tcn-app2/main-es5.406b4380cd27cc1a7ca6.js",
+        "https://guthar.github.io/tcn-app2/manifest.webmanifest",
+        "https://guthar.github.io/tcn-app2/polyfills-es2015.1f913f16a2d346cc8bdc.js",
+        "https://guthar.github.io/tcn-app2/polyfills-es5.1a3c78b07cd6f16c6e9a.js",
+        "https://guthar.github.io/tcn-app2/runtime-es2015.0811dcefd377500b5b1a.js",
+        "https://guthar.github.io/tcn-app2/runtime-es5.0811dcefd377500b5b1a.js",
+        "https://guthar.github.io/tcn-app2/styles.0507bfdbf5103b0276e0.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://guthar.github.io/tcn-app2/Roboto-300.c73eb1ceba3321a80a0a.woff",
+        "https://guthar.github.io/tcn-app2/Roboto-300.d26871e8149b5759f814.woff2",
+        "https://guthar.github.io/tcn-app2/Roboto-300.fc84e998bc29b297ea20.ttf",
+        "https://guthar.github.io/tcn-app2/Roboto-400.35b07eb2f8711ae08d1f.woff",
+        "https://guthar.github.io/tcn-app2/Roboto-400.3e1af3ef546b9e6ecef9.ttf",
+        "https://guthar.github.io/tcn-app2/Roboto-400.73f0a88bbca1bec19fb1.woff2",
+        "https://guthar.github.io/tcn-app2/Roboto-500.1d6594826615607f6dc8.woff",
+        "https://guthar.github.io/tcn-app2/Roboto-500.90d1676003d9c28c0499.woff2",
+        "https://guthar.github.io/tcn-app2/Roboto-500.d08840599e05db734565.ttf",
+        "https://guthar.github.io/tcn-app2/Roboto-700.50d75e48e0a3ddab1dd1.woff",
+        "https://guthar.github.io/tcn-app2/Roboto-700.b52fac2bb93c5858f3f2.woff2",
+        "https://guthar.github.io/tcn-app2/Roboto-700.ee7b96fa85d8fdb8c126.ttf",
+        "https://guthar.github.io/tcn-app2/assets/icons/apple-touch-icon.png",
+        "https://guthar.github.io/tcn-app2/assets/icons/icon-128x128.png",
+        "https://guthar.github.io/tcn-app2/assets/icons/icon-144x144.png",
+        "https://guthar.github.io/tcn-app2/assets/icons/icon-152x152.png",
+        "https://guthar.github.io/tcn-app2/assets/icons/icon-192x192.png",
+        "https://guthar.github.io/tcn-app2/assets/icons/icon-384x384.png",
+        "https://guthar.github.io/tcn-app2/assets/icons/icon-512x512.png",
+        "https://guthar.github.io/tcn-app2/assets/icons/icon-72x72.png",
+        "https://guthar.github.io/tcn-app2/assets/icons/icon-96x96.png",
+        "https://guthar.github.io/tcn-app2/dxiconsmaterial.2b9817b1b5c52cdc66d9.woff",
+        "https://guthar.github.io/tcn-app2/dxiconsmaterial.403ac7202be5529b6831.woff2",
+        "https://guthar.github.io/tcn-app2/dxiconsmaterial.ade00e8f4fa4cbbe9d43.ttf"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://guthar.github.io/tcn-app2/Roboto-300.c73eb1ceba3321a80a0a.woff": "3ea2c95e21cc88d82bb111c99883484c64d657db",
+    "https://guthar.github.io/tcn-app2/Roboto-300.d26871e8149b5759f814.woff2": "6b773b76e0a6708ee4040733cd0c83278543864a",
+    "https://guthar.github.io/tcn-app2/Roboto-300.fc84e998bc29b297ea20.ttf": "73a2bb2d6e591a90ffb4ed118a3989fb17b54c7b",
+    "https://guthar.github.io/tcn-app2/Roboto-400.35b07eb2f8711ae08d1f.woff": "96eca9934dff83a12371dd54fc6c1bf29256815a",
+    "https://guthar.github.io/tcn-app2/Roboto-400.3e1af3ef546b9e6ecef9.ttf": "dd1b1db13ff1f72138c134c62f38fef83749f36a",
+    "https://guthar.github.io/tcn-app2/Roboto-400.73f0a88bbca1bec19fb1.woff2": "463a07f5c66bf14e6d9d6e0f6d5e3fd3cb11f4ec",
+    "https://guthar.github.io/tcn-app2/Roboto-500.1d6594826615607f6dc8.woff": "3caf9bcd149c12e6abfe03d309e931d4ca22d4a8",
+    "https://guthar.github.io/tcn-app2/Roboto-500.90d1676003d9c28c0499.woff2": "e24a020df79c6ce3bcc4a6a33930f697b8e1d6b2",
+    "https://guthar.github.io/tcn-app2/Roboto-500.d08840599e05db734565.ttf": "5f16f4d6dbb4a4f12d8ae96488ac209bb49762a5",
+    "https://guthar.github.io/tcn-app2/Roboto-700.50d75e48e0a3ddab1dd1.woff": "e4774be50a91e83c4fdc647e27342d03a29fd215",
+    "https://guthar.github.io/tcn-app2/Roboto-700.b52fac2bb93c5858f3f2.woff2": "977c5749fd06192dac5224811ed69e53a6b2b47d",
+    "https://guthar.github.io/tcn-app2/Roboto-700.ee7b96fa85d8fdb8c126.ttf": "0ce37ced9c5fcac9bdc452a432c1258870ba4677",
+    "https://guthar.github.io/tcn-app2/assets/icons/apple-touch-icon.png": "b34c96c32a1a14ce442325e72906a3d12b2c92bf",
+    "https://guthar.github.io/tcn-app2/assets/icons/icon-128x128.png": "dc9a2569a4dfc4ced39430683d543f0e4e88e02c",
+    "https://guthar.github.io/tcn-app2/assets/icons/icon-144x144.png": "a3e84b8bfbc3b004dcf454bb79f8d59640c0ab3b",
+    "https://guthar.github.io/tcn-app2/assets/icons/icon-152x152.png": "32dec883a384ae4fe4a4373c60876084131efa50",
+    "https://guthar.github.io/tcn-app2/assets/icons/icon-192x192.png": "8d5b0de7fd664065e07c2581e5733e080cb39499",
+    "https://guthar.github.io/tcn-app2/assets/icons/icon-384x384.png": "79aae3593cfe97e5980bbeeb9ee35f25b3d46512",
+    "https://guthar.github.io/tcn-app2/assets/icons/icon-512x512.png": "64f4ed10a9cdb1ecb072c626d92690336ce66e42",
+    "https://guthar.github.io/tcn-app2/assets/icons/icon-72x72.png": "3430ee19b01073e91a6dbeca8aaee537cbf9a1a4",
+    "https://guthar.github.io/tcn-app2/assets/icons/icon-96x96.png": "e3b81a1a6f1ba3e31b9587d5a69d7adb94bc07e7",
+    "https://guthar.github.io/tcn-app2/dxiconsmaterial.2b9817b1b5c52cdc66d9.woff": "66602187b8109584b74c58a1e777e96d9f345375",
+    "https://guthar.github.io/tcn-app2/dxiconsmaterial.403ac7202be5529b6831.woff2": "177145594ca3c163ceb7ffc13f17ce2e7d0333d4",
+    "https://guthar.github.io/tcn-app2/dxiconsmaterial.ade00e8f4fa4cbbe9d43.ttf": "647a332048f0737b21c3bb4af9007c493fb156b2",
+    "https://guthar.github.io/tcn-app2/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://guthar.github.io/tcn-app2/index.html": "a1f7813ddc9ce91212427b7694978e2e9bb55079",
+    "https://guthar.github.io/tcn-app2/main-es2015.406b4380cd27cc1a7ca6.js": "08f5416969ceac5094f7d042934625221da83fda",
+    "https://guthar.github.io/tcn-app2/main-es5.406b4380cd27cc1a7ca6.js": "e49ba1eaf8efa83fce350f5af1e61c163f7debde",
+    "https://guthar.github.io/tcn-app2/manifest.webmanifest": "7e4e67483d954beab9dbe5ec475bd2ee9248901c",
+    "https://guthar.github.io/tcn-app2/polyfills-es2015.1f913f16a2d346cc8bdc.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "https://guthar.github.io/tcn-app2/polyfills-es5.1a3c78b07cd6f16c6e9a.js": "e5472003c8575a8fca7583648df3905038faeb18",
+    "https://guthar.github.io/tcn-app2/runtime-es2015.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://guthar.github.io/tcn-app2/runtime-es5.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://guthar.github.io/tcn-app2/styles.0507bfdbf5103b0276e0.css": "20cdab157990c33c312ad43f8bb1353317808eff"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
