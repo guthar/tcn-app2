@@ -3,6 +3,7 @@ import { Routes, RouterModule } from '@angular/router';
 import { LoginFormComponent } from './shared/components';
 import { AuthGuardService } from './shared/services';
 import { HomeComponent } from './pages/home/home.component';
+import { ImpressumComponent } from './pages/impressum/impressum.component';
 import { ProfileComponent } from './pages/profile/profile.component';
 import { DisplayDataComponent } from './pages/display-data/display-data.component';
 import { DxDataGridModule, DxFormModule } from 'devextreme-angular';
@@ -26,6 +27,11 @@ const routes: Routes = [
   {
     path: 'login-form',
     component: LoginFormComponent,
+    canActivate: [ AuthGuardService ]
+  },
+  {
+    path: 'impressum',
+    component: ImpressumComponent,
     canActivate: [ AuthGuardService ]
   },
   {

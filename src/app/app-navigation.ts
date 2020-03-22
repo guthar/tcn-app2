@@ -1,11 +1,11 @@
 export const navigation = [
   {
-    text: 'Home',
+    text: 'Startseite',
     path: '/home',
     icon: 'home'
   },
   {
-    text: 'Examples',
+    text: 'Über uns',
     icon: 'folder',
     items: [
       {
@@ -17,5 +17,26 @@ export const navigation = [
         path: '/display-data'
       }
     ]
-  }
+  },
+  {
+    text: "Aktuelles/Events",
+    icon: "clock"
+  },
+  {
+    text: "Plätze",
+    icon: "fields"
+  },
+  {
+    text: "Meisterschaft",
+    icon: "runner"
+  },
+  {
+    text: "Jugend",
+    icon: "group"
+  },
+  {
+    text: "Impressum",
+    icon: "mention",
+    path: '/impressum',
+  },
 ];
