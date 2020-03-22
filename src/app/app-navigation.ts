@@ -18,14 +18,6 @@ export const navigation = [
     icon: "fields"
   },
   {
-    text: "Meisterschaft",
-    icon: "runner"
-  },
-  {
-    text: "Jugend",
-    icon: "group"
-  },
-  {
     text: "Impressum",
     icon: "mention",
     path: '/impressum',
