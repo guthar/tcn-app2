@@ -6,17 +6,8 @@ export const navigation = [
   },
   {
     text: 'Über uns',
-    icon: 'folder',
-    items: [
-      {
-        text: 'Profile',
-        path: '/profile'
-      },
-      {
-        text: 'Display Data',
-        path: '/display-data'
-      }
-    ]
+    path: '/about',
+    icon: 'folder'
   },
   {
     text: "Aktuelles/Events",
